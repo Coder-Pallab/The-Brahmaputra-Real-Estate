@@ -33,7 +33,7 @@ function About() {
                         </div>
                     </div>
                     <p className='my-10 max-w-lg'>We know the local market like no one else. From site visits to paperwork, we guide you through every step—honestly, transparently, and professionally. Our focus is not just selling properties, but building long-term relationships.</p>
-                    <button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn More</button>
+                    <button className='bg-blue-600 text-white px-8 py-2 rounded cursor-pointer'>Learn More</button>
                 </div>
             </div>
         </motion.div>

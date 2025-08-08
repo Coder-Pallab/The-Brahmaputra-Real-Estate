@@ -1,5 +1,5 @@
-import logo from './logo.svg'
-import logo_dark from './logo_dark.svg'
+import logo from './brahmaputra_logo2.png'
+import logo_dark from './brahmaputra_logo2.png'
 import cross_icon from './cross_icon.svg'
 import menu_icon from './menu_icon.svg'
 import star_icon from './star_icon.svg'
@@ -36,38 +36,38 @@ export const assets = {
 export const projectsData = [
     {
       title: "Skyline Haven",
-      price: "$2,50,000",
-      location: "California",
+      price: "₹21902887/-",
+      location: "Nogaon AS",
       image: project_img_1
     },
     {
       title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
+      price: "₹17522310/-",
+      location: "Amguri AS",
       image: project_img_2
     },
     {
       title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
+      price: "₹26283465/-",
+      location: "Digboi AS",
       image: project_img_3
     },
     {
       title: "Central Square",
-      price: "$2,50,000",
-      location: "Los Angeles",
+      price: "₹28035696/-",
+      location: "Guwahati AS",
       image: project_img_4
     },
     {
       title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
+      price: "₹27159580/-",
+      location: "Dibrugarh AS",
       image: project_img_5
     },
     {
       title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
+      price: "₹33292389/-",
+      location: "Sibsagar AS",
       image: project_img_6
     },
     
@@ -75,27 +75,27 @@ export const projectsData = [
 
   export const testimonialsData = [
     {
-        name: "Donald Jackman",
-        title: "Marketing Manager",
+        name: "Pradyut Duarah",
+        title: "Goverment Employee",
         image: profile_img_1,
-        alt: "Portrait of Donald Jackman",
+        alt: "Portrait of Pradyut Duarah",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "I have had the pleasure of working with Brahmaputra Real-Estate and can confidently say that their professionalism, dedication, and attention to detail are truly commendable. They consistently deliver quality results on time, and their problem-solving skills make them an invaluable asset to any team."
     },
     {
-        name: "Richard Nelson",
-        title: "UI/UX Designer",
+        name: "Abdul Riyaz",
+        title: "Unemployed",
         image: profile_img_2,
-        alt: "Portrait of Richard Nelson",
+        alt: "Portrait of Abdul Riyaz",
         rating: 4,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "Brahmaputra Real-Estate stands out for their creativity, innovative thinking, and positive attitude. They always bring fresh ideas to the table and are willing to go the extra mile to help others succeed. Their ability to remain calm under pressure and inspire those around them is truly admirable."
     },
     {
-        name: "James Washington",
-        title: "Co-Founder",
+        name: "Rucheng Borgohain",
+        title: "Frontend Developer",
         image: profile_img_3,
         alt: "Portrait of James Washington",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "Brahmaputra Real-Estate is one of the most genuine and trustworthy people I know. They are approachable, kind-hearted, and always willing to lend a helping hand. Their warm personality and commitment to doing their best make them a joy to be around, both personally and professionally."
     }
 ];

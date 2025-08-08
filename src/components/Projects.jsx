@@ -38,10 +38,10 @@ function Projects() {
 
       {/* Slider buttons */}
       <div className='flex justify-end items-center mb-8'>
-        <button onClick={prevProject} className='p-2 bg-gray-200 rounded mr-2' aria-label='Previous Project'>
+        <button onClick={prevProject} className='p-2 bg-gray-200 rounded mr-2 cursor-pointer' aria-label='Previous Project'>
           <img src={assets.left_arrow} alt="Previous" />
         </button>
-        <button onClick={nextProject} className='p-2 bg-gray-200 rounded mr-2' aria-label='Next Project'>
+        <button onClick={nextProject} className='p-2 bg-gray-200 rounded mr-2 cursor-pointer' aria-label='Next Project'>
           <img src={assets.right_arrow} alt="Next" />
         </button>
       </div>
